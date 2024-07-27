@@ -1,9 +1,14 @@
 body {
-    margin: 0 auto;
-    border-radius: 30px;
+    margin: 0;
     font-family: "Source Sans 3", sans-serif;
     background-color: #EDEDED;
 }
+
+.all {
+    width: 400px;
+    margin: 0 auto;
+}
+
 
 header {
     display: flex;

@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #C6C6C6;
+    padding: 10px 20px;
+}
+
+.logo {
+    width: 130px;
+}
+
+.avatar {
+    width: 34px;
+    height: 34px;
+    align-self: center;
+    border-radius: 50%;
+}
+
+.sect-1 {
+    display: flex;
+    justify-content: flex-start;
+    margin: 20px;
+}
+
+.sect-1 div h2, .sect-1 div p {
+    margin: 0;
+    font-size: 1rem;
+    padding: 2px;
+}
+
+.sect-1 div {
+    margin-left: 10px;
+}
+
+.post {
+    width: 100%;
+}
+
+.icon {
+    max-width: 30px;
+    padding: 8px;
+}
+
+.sect-3 {
+    padding-left: 10px;
+    font-size: 1rem;
+}
+
+.icon:hover {
+    background-color: gray;
+}
+
+.bold {
+    font-weight: 700;
+    padding-left: 10px;
+}

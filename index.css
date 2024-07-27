@@ -7,6 +7,7 @@ body {
 .all {
     width: 400px;
     margin: 0 auto;
+    background-color: white;
 }
 
 
@@ -65,4 +66,8 @@ header {
 .bold {
     font-weight: 700;
     padding-left: 10px;
+}
+.border {
+    border: 1px solid #d3d3d3;
+    border-radius: 50px;
 }

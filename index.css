@@ -67,3 +67,6 @@ header {
     font-weight: 700;
     padding-left: 10px;
 }
+.sect-3 p {
+    margin: 3px;
+}

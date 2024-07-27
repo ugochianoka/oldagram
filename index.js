@@ -31,7 +31,7 @@ const posts = [
 let mainEl = document.getElementById("main")
 
 for (let i=0; i < posts.length; i++) {
-    mainEl.innerHTML += `<section class="sect-1 border">
+    mainEl.innerHTML += `<section class="sect-1">
                 <img src="${posts[i].avatar}" class="avatar">
                 <div>
                     <h2> ${posts[i].name}</h2>

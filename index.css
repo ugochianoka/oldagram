@@ -71,3 +71,7 @@ header {
     border: 1px solid #d3d3d3;
     border-radius: 50px;
 }
+
+main {
+    margin-top: 20px;
+}
